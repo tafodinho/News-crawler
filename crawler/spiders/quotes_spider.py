@@ -56,7 +56,7 @@ class QuotesSpider(scrapy.Spider):
         img = article.css("figure.post-img > img::attr(src)").get()
         title = self.clean_string(article.css(".title::text").get())
         date = self.clean_string(article.css("div.post-infos > p::text").get())
-        excerpt = article.css("div.post-content > p").get()
+        excerpt = article.css("div.post-content > p::text").get()
         page = response.url.split("/")[-4]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
