@@ -6,10 +6,11 @@ import datetime
 
 class Nattimes(scrapy.Spider):
     name = "nattimes"
-    host="localhost"
-    user="root"
-    passwd="google"
-    database="bembits"
+
+    host = 'localhost'
+    user = 'root'
+    passwd = 'google'
+    database = 'bembits'
 
     def start_requests(self):
         urls = [
