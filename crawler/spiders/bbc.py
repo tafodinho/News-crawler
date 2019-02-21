@@ -57,9 +57,10 @@ class BBC(scrapy.Spider):
         title = self.clean_string(article.css("h1.story-body__h1::text").get())
         date = self.clean_string(article.css("div.date::text").get())
         excerpt = article.css("p.story-body__introduction::text").get()
-        page = response.url.split("/")[-4]
+        page = response.url.split("/")[-3]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
-        
+        print(page)
+        print('\n\n\n\n')
         mydb = self.mysql_connect()
         db_cursor = mydb.cursor()
         sql1 = "SELECT * FROM cameroons WHERE title = '%s'" % title
