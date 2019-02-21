@@ -4,9 +4,8 @@ import re
 import mysql.connector
 import datetime
 
-class QuotesSpider(scrapy.Spider):
-    name = "quotes"
-
+class CRTV(scrapy.Spider):
+    name = "crtv"
     host="localhost"
     user="root"
     passwd="google"
@@ -14,7 +13,7 @@ class QuotesSpider(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            'https://www.journalducameroun.com/en/',
+            "https://www.crtv.cm/",
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -30,16 +29,17 @@ class QuotesSpider(scrapy.Spider):
     def parse(self, response):
         links_crawled = []
         page = response.url.split("/")[-2]
-        filename = 'article-urls-%s.txt' % page
+        filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
-
-        for articles in response.css("li > article"):
+        f.write(response.text)
+        for articles in response.css(".single-article"):
             url = articles.css("a::attr(href)").get()
 
             if url in links_crawled:
                 continue
             try:
-                f.write(json.dumps({'url': url}))
+                print(response)
+                f.write(response.text)
                 f.write('\n')
                 links_crawled.append(url)
                 yield scrapy.Request(url=url, callback=self.parse1)
@@ -76,4 +76,3 @@ class QuotesSpider(scrapy.Spider):
         
     def clean_string(self, mystring):
         return re.sub('[\t\r\n]+', '', mystring)
-       
