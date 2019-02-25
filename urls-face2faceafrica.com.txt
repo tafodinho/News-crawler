@@ -1,0 +1,1708 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-21658649-2"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());  
+        gtag('config', 'UA-21658649-2');
+        </script>
+        
+        <meta charset="UTF-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Face2Face Africa - The Premier Pan-African Voice</title> 
+        
+        <meta name="theme-color" content="#bdac1f">
+        <meta name="MobileOptimized" content="320">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, target-densitydpi=device-dpi, shrink-to-fit=no">
+        <link rel="stylesheet" type="text/css" href="https://face2faceafrica.com/wp-content/cache/minify/088fa.css" media="all" />
+
+        
+        <link rel="stylesheet" media="print" href="https://face2faceafrica.com/wp-content/themes/f2fa-v4/styles/print.css">
+        <link rel="icon" type="image/x-icon" href="https://face2faceafrica.com/wp-content/themes/f2fa-v4/favicon.png">
+        <link rel="mask-icon" href="https://face2faceafrica.com/wp-content/themes/f2fa-v4/safari-pinned-tab.svg" color="#bdac1f">
+        <link rel="manifest" href="https://face2faceafrica.com/wp-content/themes/f2fa-v4/manifest.json">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+        <meta name="msapplication-config" content="https://face2faceafrica.com/wp-content/themes/f2fa-v4/browserconfig.xml">
+       
+       
+        
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Changing the pan-African Narrative one story at a time"/>
+<link rel="canonical" href="https://face2faceafrica.com/" />
+<link rel="next" href="https://face2faceafrica.com/page/2" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Face2Face Africa - The Premier Pan-African Voice" />
+<meta property="og:description" content="Changing the pan-African Narrative one story at a time" />
+<meta property="og:url" content="https://face2faceafrica.com/" />
+<meta property="og:site_name" content="Face2Face Africa" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Changing the pan-African Narrative one story at a time" />
+<meta name="twitter:title" content="Face2Face Africa - The Premier Pan-African Voice" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://face2faceafrica.com/#website","url":"https://face2faceafrica.com/","name":"Face2Face Africa","potentialAction":{"@type":"SearchAction","target":"https://face2faceafrica.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://face2faceafrica.com/","sameAs":[],"@id":"https://face2faceafrica.com/#organization","name":"Face2Face Africa","logo":""}</script>
+<meta name="msvalidate.01" content="FCB054043F5E43CA4C9FDD45D0578630" />
+<meta name="google-site-verification" content="86fqKWm2b8GIZhZnL9L8yV1UP2t2DWyAFhusqVOO-EA" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/face2faceafrica.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" type="text/css" href="https://face2faceafrica.com/wp-content/cache/minify/50cf5.css" media="all" />
+
+
+
+
+
+<script type='text/javascript' src='https://face2faceafrica.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://face2faceafrica.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"1","sampling_rate":"10","ajax_url":"https:\/\/face2faceafrica.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"","token":"f7c2bc78e1","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://face2faceafrica.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='https://www.google.com/jsapi?ver=5.1'></script>
+<script type='text/javascript' src='https://face2faceafrica.com/wp-content/plugins/advpolls/js/google_load.js?ver=5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sl_ajax = {"ajax_url":"https:\/\/face2faceafrica.com\/wp-admin\/admin-ajax.php","text_select_one":"You must select at least one item to vote!","check_other_input":"Please enter your answer!","back_poll":"Back Poll","display_type":"2","bootstrap_version":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://face2faceafrica.com/wp-content/plugins/advpolls/js/site.js?ver=5.1'></script>
+<link rel='https://api.w.org/' href='https://face2faceafrica.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://face2faceafrica.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://face2faceafrica.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1" />
+<style type='text/css'>
+.wrap-advpolls-title, .advpolls-buttons {
+	background: #FFFFFF;
+} 
+.advpolls .advpolls-title, .advpolls-buttons {
+	color: #111111;
+} 
+.advpolls .advpolls-body {
+	background-color: #EEEEDD;
+} 
+.advpolls .advpolls-body {
+	color: #4D4D4D;
+} 
+.advpolls {
+	border: 1px solid #e5e5e5;
+} </style>      <script type="text/javascript">
+        var nr_ajaxurl = 'https://face2faceafrica.com/wp-admin/admin-ajax.php';
+        //var gallery_btn_dialog =  'https://face2faceafrica.com/wp-admin/admin-ajax.php?action=nr_gallery_button_ajax&t=editor'; 
+        //var gallery_btn_dialog_html =  'https://face2faceafrica.com/wp-admin/admin-ajax.php?action=nr_gallery_button_ajax&t=html'; 
+      </script>      <meta name="onesignal" content="wordpress-plugin"/>
+          <link rel="manifest"
+            href="https://face2faceafrica.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id="/>
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://face2faceafrica.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'c846c30a-6a30-48c6-9e64-8a3bf2063fb2';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Face2Face Africa";
+oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing to Face2Face Africa";
+oneSignal_options['welcomeNotification']['url'] = "https://face2faceafrica.com";
+oneSignal_options['path'] = "https://face2faceafrica.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.com.f2fa";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = false;
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+        <script>
+        /**
+        * Function that tracks a click on an outbound link in Analytics.
+        */
+        var trackOutboundLink = function(url) {
+           ga('send', 'event', 'outbound', 'click', url, {
+             'transport': 'beacon',
+             'hitCallback': function(){document.location = url;}
+           });
+        }
+        </script>
+        <script type="text/javascript">
+              window._taboola = window._taboola || [];
+              _taboola.push({article:'auto'});
+              !function (e, f, u, i) {
+                if (!document.getElementById(i)){
+                  e.async = 1;
+                  e.src = u;
+                  e.id = i;
+                  f.parentNode.insertBefore(e, f);
+                }
+              }(document.createElement('script'),
+              document.getElementsByTagName('script')[0],
+              '//cdn.taboola.com/libtrc/face2faceafrica-network/loader.js',
+              'tb_loader_script');
+              if(window.performance && typeof window.performance.mark == 'function')
+                {window.performance.mark('tbl_ic');}
+            </script>
+
+            <script>
+                $_membership_payment_id1 = '105959';
+                $_membership_payment_id2 = '105958';
+            </script>
+    </head>
+    
+    <body class="home blog">
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=1442063369344203';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+        
+                   
+        
+                
+                <div id="root">
+            <header id="top">
+                <p id="logo"><a href="https://face2faceafrica.com/" accesskey="h">Face2Face Africa</a></p>
+                <nav id="skip">
+                    <ul>
+                        <li><a href="#nav" accesskey="n">Skip to navigation (n)</a></li>
+                        <li><a href="#content" accesskey="c">Skip to content (c)</a></li>
+                        <li><a href="#footer" accesskey="f">Skip to footer (f)</a></li>
+                    </ul>
+                </nav>
+                <nav id="nav">
+                    <ul>
+                        <li class="menu"><a>Recent info</a>
+                            <div>
+                                <ul>
+                                    <li><a data-sub="news" href="https://face2faceafrica.com/news">News</a></li>
+                                    <li><a data-sub="history" href="https://face2faceafrica.com/history">History</a></li>
+                                    <li><a data-sub="culture" href="https://face2faceafrica.com/culture">Culture</a></li>
+                                    <li><a data-sub="entertainment" href="https://face2faceafrica.com/entertainment">Entertainment</a></li>
+                                    <li><a data-sub="lifestyle" href="https://face2faceafrica.com/lifestyle">Lifestyle</a></li>
+                                    <li><a data-sub="women" href="https://face2faceafrica.com/face2faceafrica-comwomen">Women</a></li>                                     
+                                    <li><a data-sub="videos" href="https://face2faceafrica.com/videos">Videos</a></li>
+                                    <li><a>Sections</a>
+                                        <ul>
+                                            <li><a data-sub="money-moves" href="https://face2faceafrica.com/money-moves">Money Moves</a></li>
+                                            <li><a data-sub="tech-innovation" href="https://face2faceafrica.com/tech-innovation">Tech &amp; Innovation </a></li>
+                                            <li><a data-sub="diaspora-connect" href="https://face2faceafrica.com/diaspora-connect">Diaspora Connect</a></li>
+                                            <li><a data-sub="we-tour" href="https://face2faceafrica.com/we-tour">We Tour</a></li>
+                                            <li><a data-sub="fashion-finds" href="https://face2faceafrica.com/fashion-finds">Fashion Finds</a></li>
+                                            <li><a data-sub="art-attack" href="https://face2faceafrica.com/art-attack">Art Attack</a></li>
+                                            <li><a data-sub="africa-quiz" href="https://face2faceafrica.com/africa-quiz">Africa Quiz</a></li>
+                                            <li><a data-sub="foodie-friday" href="https://face2faceafrica.com/foodie-friday">Foodie Friday</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                                                <div>
+                                                                        <div data-sub="news">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/senegal-is-choosing-a-leader-will-the-young-triumph-over-the-old">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/osu-285x180.jpg">
+                                                        </span> 
+                                                        <span>3 hours ago</span> Senegal is choosing a leader – will the young triumph over the old?                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/white-u-s-senator-elizabeth-warren-pushes-for-reparations-for-black-americans">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/elizabeth-285x180.jpg">
+                                                        </span> 
+                                                        <span>17 hours ago</span> White U.S senator Elizabeth Warren pushes for reparations for black Americans                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/watch-r-kelly-turn-himself-in-to-police-after-sexual-abuse-charges">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/kelly-285x180.jpg">
+                                                        </span> 
+                                                        <span>20 hours ago</span> Watch R. Kelly turn himself in to police after sexual abuse charges                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/news">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="history">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/the-life-of-legendary-civil-rights-icon-w-e-b-du-bois-after-settling-in-africa">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/08/BeFunky-collage29-285x180.jpg">
+                                                        </span> 
+                                                        <span>10 hours ago</span> The life of legendary civil rights icon W.E.B. Du Bois after settling in Africa                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fdawkins" title="Posts by Farida Dawkins" rel="author">Farida Dawkins</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/at-17-this-actor-escaped-racism-in-the-us-and-broke-racial-barriers-in-europe-in-the-1800s">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/Ira_big_OSPC_83.6ALD.width-770-683x10241-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 days ago</span> At 17, this actor escaped racism in the US and broke racial barriers in Europe in the 1800s                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/3-unforgivable-ways-white-women-profited-from-slavery">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/wicked-285x180.png">
+                                                        </span> 
+                                                        <span>2 days ago</span> 3 unforgivable ways white women profited from slavery                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/history">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="culture">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/why-the-cape-town-carnival-in-south-africa-is-a-must-attend-in-2019">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/carniva-cover-285x180.jpg">
+                                                        </span> 
+                                                        <span>5 days ago</span> Why the Cape Town Carnival in South Africa is a must-attend in 2019                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/11-toni-morrison-quotes-that-solidify-the-essence-of-black-history-month">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/cover-toni-285x180.jpg">
+                                                        </span> 
+                                                        <span>6 days ago</span> 11 Toni Morrison quotes that solidify the essence of Black History Month                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/these-african-presidents-opted-for-prayers-in-the-face-of-tough-economic-times">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/joshua-weah-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> These African presidents opted for prayers in the face of tough economic times                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/culture">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="entertainment">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/the-amazing-african-woman-who-caught-trumps-attention-has-been-identified">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/9460336-3x2-940x627-285x180.jpg">
+                                                        </span> 
+                                                        <span>4 days ago</span> The &#8216;amazing&#8217; African woman who caught Trump&#8217;s attention has been identified                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ismail" title="Posts by Ismail Akwei" rel="author">Ismail Akwei</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/how-bob-marleys-three-little-birds-became-hollands-top-football-clubs-anthem">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/feature7-285x180.jpg">
+                                                        </span> 
+                                                        <span>5 days ago</span> How Bob Marley’s &#8216;Three Little Birds&#8217; became Holland&#8217;s top football club&#8217;s anthem                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/this-video-of-an-african-woman-juggling-football-in-skirt-and-flipflops-wows-trump">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/9460336-3x2-940x627-285x180.jpg">
+                                                        </span> 
+                                                        <span>5 days ago</span> This video of an African woman juggling football in skirt and flipflops wows Trump                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ismail" title="Posts by Ismail Akwei" rel="author">Ismail Akwei</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/entertainment">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="lifestyle">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/the-graceful-aging-of-95-year-old-robert-mugabe-in-pictures">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/feature10-285x180.jpg">
+                                                        </span> 
+                                                        <span>19 hours ago</span> The graceful aging of 95-year-old Robert Mugabe in pictures                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/yemi-fawaz-nigerias-first-supermodel-dies-at-64">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/model-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 days ago</span> Yemi Fawaz, Nigeria&#8217;s first supermodel dies at 64                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/serena-williams-husband-reveals-some-marriage-cheat-codes-he-lives-by">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/feature-new-285x180.jpg">
+                                                        </span> 
+                                                        <span>6 days ago</span> Serena Williams’ husband reveals some marriage &#8216;cheat codes&#8217; he lives by                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/lifestyle">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="women">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/metoo-storms-conservative-northern-nigeria-where-women-had-no-voice">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/download1-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 days ago</span> #MeToo storms conservative northern Nigeria where women had no voice                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/finusah" title="Posts by Fatiatu Inusah" rel="author">Fatiatu Inusah</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/this-nigerian-genius-at-nasa-is-first-black-woman-to-earn-phd-in-aerospace-engineering">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/okolo-285x180.jpg">
+                                                        </span> 
+                                                        <span>4 days ago</span> This Nigerian genius at NASA is first black woman to earn PhD in aerospace engineering                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/babies-unwanted-seeds-sown-in-african-women-by-fleeting-chinese-workers">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/05/chin-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> Babies: Unwanted seeds sown in African women by fleeting Chinese workers                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ismail" title="Posts by Ismail Akwei" rel="author">Ismail Akwei</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/face2faceafrica-comwomen">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="videos">
+                                        <ul class="list-gallery-c">
+                                                                                                <li>
+                                                         <a href="https://face2faceafrica.com/videos/H4DsW7LT">
+                                                            <span class="img">
+                                                                <img src="https://cdn.jwplayer.com/thumbs/H4DsW7LT-720.jpg">
+                                                            </span> 
+                                                            <span>3 days ago</span> Cooking with Chef Eric Adjepong Part 1                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                         <a href="https://face2faceafrica.com/videos/CS7Zyv2i">
+                                                            <span class="img">
+                                                                <img src="https://cdn.jwplayer.com/thumbs/CS7Zyv2i-720.jpg">
+                                                            </span> 
+                                                            <span>1 month ago</span> "Immigrants Do Not Come to This Country to Take; They come to Give and Create Opportunities"                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                         <a href="https://face2faceafrica.com/videos/LZO5HIka">
+                                                            <span class="img">
+                                                                <img src="https://cdn.jwplayer.com/thumbs/LZO5HIka-720.jpg">
+                                                            </span> 
+                                                            <span>2 weeks ago</span> Part 1: Sandra Appiah's One on One with Afro-beat Maestro Femi Kuti                                                        </a>
+                                                    </li>
+                                                                                            
+                                        </ul>
+                                         
+                                        <p><a href="https://face2faceafrica.com/videos">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="money-moves">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/here-are-5-most-innovative-african-companies-of-2019">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/swaniker-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 days ago</span> Here are 5 most innovative African companies of 2019                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/9-top-companies-that-no-longer-require-a-college-degree">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/Apple-285x180.jpg">
+                                                        </span> 
+                                                        <span>3 days ago</span> 9 top companies that no longer require a college degree                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/kenya-is-the-worlds-4th-largest-flower-exporter-and-makes-over-500m-a-year">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/harvest_flowers_img2-285x180.jpg">
+                                                        </span> 
+                                                        <span>1 week ago</span> Kenya is the world&#8217;s 4th-largest flower exporter and makes over $500m a year                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/money-moves">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="tech-innovation">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/rwanda-poised-to-open-africas-first-smartphone-manufacturing-factory-in-2019">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/President1-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> Rwanda poised to open Africa&#8217;s first smartphone manufacturing factory in 2019                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/africas-first-private-space-satellite-to-be-launched-in-2019-thanks-to-these-girls">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/12/MEDO-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> Africa&#8217;s first private space satellite to be launched in 2019 thanks to these girls                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/5-african-women-breaking-stereotypes-stem-careers">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/01/Regina_Honu_011-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> 5 African women breaking stereotypes in STEM careers                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/pamela" title="Posts by Pamela Ofori-Boateng" rel="author">Pamela Ofori-Boateng</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/tech-innovation">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="diaspora-connect">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/5-caribbean-mother-tongues-that-developed-from-west-african-languages">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/Patois-2-285x180.jpg">
+                                                        </span> 
+                                                        <span>3 days ago</span> 5 Caribbean mother tongues that developed from West African languages                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/5-iconic-people-didnt-know-caribbean-island-grenada">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/02/lewis-hamilton1-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> 5 iconic people you didn’t know are from the Caribbean island of Grenada                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/bridget" title="Posts by Bridget Boakye" rel="author">Bridget Boakye</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/10-iconic-black-activists-who-visited-ghana-in-the-50s-and-60s">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/01/ghana-cover-285x180.png">
+                                                        </span> 
+                                                        <span>3 weeks ago</span> 10 iconic black activists who visited Ghana in the 50s and 60s                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/diaspora-connect">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="we-tour">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/why-you-should-visit-the-beautiful-saint-lucia-the-only-sovereign-nation-to-be-named-after-a-woman">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/pitons-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 days ago</span> Why you should visit the beautiful Saint Lucia, the only sovereign nation to be named after a woman                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/kunta-kinte-island-the-15th-century-transit-point-and-settlement-for-european-traders-to-africa">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/08/KKK-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> Kunta Kinte Island, the 15th-century transit point and settlement for European traders to Africa                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/historical-church-buildings-in-africa-that-are-still-a-sight-to-behold">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/ic1-285x180.jpg">
+                                                        </span> 
+                                                        <span>3 weeks ago</span> Historical church buildings in Africa that are still a sight to behold                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/we-tour">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="fashion-finds">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/young-south-african-designer-wins-uks-international-fashion-showcase-award">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/thebe-cover-285x180.jpg">
+                                                        </span> 
+                                                        <span>3 days ago</span> Young South African designer wins UK&#8217;s international fashion showcase award                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/this-nigerian-american-designer-is-behind-beyonces-ankara-suit-thats-breaking-the-internet">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/enna2-285x180.png">
+                                                        </span> 
+                                                        <span>5 days ago</span> This Nigerian-American designer is behind Beyonce&#8217;s Ankara suit that&#8217;s breaking the internet                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/photoshoot-goes-bad-as-white-model-poses-with-cameroons-endangered-tribespeople">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/WhatsApp-Image-2019-01-28-at-11.32.05-AM-285x180.jpeg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> Photoshoot goes bad as white model poses with Cameroon’s endangered tribespeople                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ismail" title="Posts by Ismail Akwei" rel="author">Ismail Akwei</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/fashion-finds">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="art-attack">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/egypts-1b-mega-museum-a-tourism-boost-and-new-home-for-its-priceless-treasures">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/grand-285x180.jpg">
+                                                        </span> 
+                                                        <span>4 days ago</span> Egypt’s $1b mega museum – a tourism boost and new home for its priceless treasures                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/10-thought-provoking-quotes-from-famous-author-paul-laurence-dunbar">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/dunbar-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> 10 thought-provoking quotes from famous author Paul Laurence Dunbar                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/black-history-month-welcomed-like-christmas-with-creative-door-decorations-photos">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/DyIMS5EUwAA7Jmb-285x180.jpg">
+                                                        </span> 
+                                                        <span>3 weeks ago</span> Black History Month welcomed like Christmas with creative door decorations [Photos]                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/ismail" title="Posts by Ismail Akwei" rel="author">Ismail Akwei</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/art-attack">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="africa-quiz">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/quiz-test-your-knowledge-of-african-presidents">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/07/Copy-of-Facebook-Post-%E2%80%93-Untitled-Design-4-285x180.png">
+                                                        </span> 
+                                                        <span>2 weeks ago</span> [Quiz] Test your knowledge of African presidents                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/quiz-how-well-do-you-know-the-diverse-cultures-of-africa">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/Quiz-Test-your-knowledge-of-African-politics2-285x180.jpg">
+                                                        </span> 
+                                                        <span>3 weeks ago</span> [Quiz] How well do you know the diverse cultures of Africa?                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/nwaweru" title="Posts by Nduta Waweru" rel="author">Nduta Waweru</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/quiz-can-you-name-all-the-african-countries-highlighted-on-the-map">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/01/Quiz-Test-your-knowledge-of-African-politics23-285x180.jpg">
+                                                        </span> 
+                                                        <span>4 weeks ago</span> [Quiz] Can you name all the African countries highlighted on the map?                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/nwaweru" title="Posts by Nduta Waweru" rel="author">Nduta Waweru</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/africa-quiz">See all</a></p>
+                                                                            </div>
+                                                                        <div data-sub="foodie-friday">
+                                        <ul class="list-gallery-c">
+                                                                                             
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/civil-rights-activist-medgar-evers-once-had-an-office-on-the-same-building-as-this-historic-restaurant">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/suzassippi-blogspot-com-285x180.jpg">
+                                                        </span> 
+                                                        <span>2 days ago</span> Civil rights activist Medgar Evers once had an office on the same building as this historic restaurant                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/this-tiny-20-seater-village-restaurant-in-south-africa-is-the-best-in-the-world-photos">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/feature-wo-285x180.jpg">
+                                                        </span> 
+                                                        <span>4 days ago</span> This tiny 20-seater village restaurant in South Africa is the best in the world [Photos]                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+
+                                                </li>
+                                                                                                 
+                                                <li>
+                                                     <a href="https://face2faceafrica.com/article/the-iconic-d-c-restaurant-that-fed-activists-during-the-1968-riots-sparked-by-mlks-death">
+                                                        <span class="img">
+                                                            <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/feature6-285x180.jpg">
+                                                        </span> 
+                                                        <span>7 days ago</span> The iconic D.C. restaurant that fed activists during the 1968 riots sparked by MLK’s death                                                    </a> 
+                                                    
+                                                    <span class="author-name">by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+
+                                                </li>
+                                                                                                                                        
+                                        </ul>
+                                                                                <p><a href="https://face2faceafrica.com/foodie-friday">See all</a></p>
+                                                                            </div>
+                                                                        
+                                </div>
+                            </div>
+                        </li>
+                        
+                                                <li><a accesskey="1" href="https://iaapanetwork.com/"><i class="icon-join-network"></i> <span>Join our professional network</span></a> <em>(1)</em></li>
+                        <li class="btn"><a accesskey="2" href="https://30blackstars.face2faceafrica.com"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/30blackstars-logo.png"></a> <em>(2)</em></li>
+                        <li class="btn a"><a accesskey="2" href="https://face2faceafrica.com/membership" style="color:#fff">Subscribe to premium</a> <em>(2)</em></li>
+                        <li class="btn"><a accesskey="3" href="https://paw.face2faceafrica.com/">Pan-African Weekend</a> <em>(3)</em></li>
+                                                
+                        <li class="c"><a accesskey="4"><i class="icon-zoom"></i> Search</a> <em>(4)</em></li>
+                    </ul>
+                </nav>
+                <nav id="up">
+                    <ul>
+                        <li><a href="https://face2faceafrica.com/news">News</a></li> 
+                        <li><a accesskey="9" href="https://face2faceafrica.com/history">History</a> <em>(9)</em></li>
+                        <li><a accesskey="6" href="https://face2faceafrica.com/culture">Culture</a> <em>(6)</em></li>
+                        <li><a accesskey="7" href="https://face2faceafrica.com/face2faceafrica-comwomen">Women</a> <em>(7)</em></li>
+                        <li><a accesskey="8" href="https://face2faceafrica.com/money-moves">Money moves</a> <em>(8)</em></li>                       
+                        
+                        <li><a href="https://face2faceafrica.com/submit-a-story">Submit a story</a></li>
+                    </ul>
+                    <ul>  
+
+                                                    <li><a href="https://face2faceafrica.com/podcast"><i class="icon-podcast"></i> <span>Podcast</span></a></li>
+                            <li class="btn sub"><a href="#footer"><i class="icon-envelope-outline"></i> Newsletter</a></li>
+                                                <li class="desktop-only"><a href="/about-us">About</a></li>
+                                                    <li><a href="https://face2faceafrica.com/membership/login">Sign in</a></li>
+                                            </ul>
+                </nav>
+                <nav id="aside">
+                    <ul>
+                         
+                        <li><a href="https://face2faceafrica.com/membership">Join premium</a></li>
+                        <li><a href="https://face2faceafrica.com/membership/login">Sign in</a></li>
+                                            </ul>
+                </nav>
+            </header> 
+             
+            <form action="https://face2faceafrica.com/" method="get" id="search">
+                <p>
+                    <label for="sa">Search</label>
+                    <input type="text" id="sa" name="s" value="" required>
+                    <button type="submit">Submit</button>
+                </p>
+                <!--h2>Recent results for "republicans"</h2-->
+                <ul class="list-gallery-b list-gallery-b nr-search-preview">
+                    
+                </ul>
+            </form>                    
+            <section id="content">
+                        
+                    <figure class="mobile-hide text-uppercase text-center image-a dont-print nr-ad-block">
+                                                
+                                <figcaption>Advertisement</figcaption>
+                                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Header 970X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="8774895959"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                            
+                                            </figure> 
+                        
+                    <figure class="mobile-only text-uppercase text-center image-a dont-print nr-ad-block">   
+                                                
+                                <figcaption>Advertisement</figcaption>
+                                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 728x90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="5041266167"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                          
+                                            </figure>
+                    
+            
+    <div class="cols-a e wide">
+        <div class="cols-c">
+            <div>
+                <ul class="list-article">
+                                            <li>
+                            <figure>
+                                <img alt="Senegal is choosing a leader – will the young triumph over the old?" src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/osu-850x486.jpg">
+                            </figure>
+                            <h1 style="text-transform:none">
+                                <a href="https://face2faceafrica.com/article/senegal-is-choosing-a-leader-will-the-young-triumph-over-the-old">
+                                    Senegal is choosing a leader – will the young triumph over the old? 
+                                                                    </a>
+                            </h1>
+                                                    </li>
+
+                                            <li>
+                            <figure>
+                                <img alt="The life of legendary civil rights icon W.E.B. Du Bois after settling in Africa" src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/08/BeFunky-collage29-850x486.jpg">
+                            </figure>
+                            <h1 style="text-transform:none">
+                                <a href="https://face2faceafrica.com/article/the-life-of-legendary-civil-rights-icon-w-e-b-du-bois-after-settling-in-africa">
+                                    The life of legendary civil rights icon W.E.B. Du Bois after settling in Africa 
+                                                                    </a>
+                            </h1>
+                                                    </li>
+
+                                        
+                </ul>    
+            </div>
+            <aside>
+                <h3 class="header-e"><span>Top stories</span></h3>
+                <ul class="list-top" id="top-stories">
+                                    </ul>
+            </aside>
+        </div>
+        <aside>
+                            <figure class="text-uppercase text-center sticky mb-j wide-only nr-ad-block">
+                    <figcaption>Advertisement</figcaption>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="1020870924"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                </figure> 
+                     
+
+            <h3 class="header-e"><span>Just in</span> <!--a href="">see all</a--></h3>
+                        <ul class="list-details">
+                <li><a href="https://face2faceafrica.com/article/senegal-is-choosing-a-leader-will-the-young-triumph-over-the-old"><span class="img "><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/osu-140x115.jpg"></span><span>3 hours ago</span>Senegal is choosing a leader – will the young triumph over the old?</a><span class="author-name"> by <a href="https://face2faceafrica.com/author/mtaylor">Mildred Europa Taylor</a></span></li><li><a href="https://face2faceafrica.com/article/the-life-of-legendary-civil-rights-icon-w-e-b-du-bois-after-settling-in-africa"><span class="img "><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/08/BeFunky-collage29-140x115.jpg"></span><span>10 hours ago</span>The life of legendary civil rights icon W.E.B. Du Bois after settling in Africa</a><span class="author-name"> by <a href="https://face2faceafrica.com/author/fdawkins">Farida Dawkins</a></span></li><li><a href="https://face2faceafrica.com/article/from-convicted-drug-dealer-to-mayor-the-inspiring-journey-of-jermaine-wilson"><span class="img "><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/mayor-140x115.png"></span><span>14 hours ago</span>From convicted drug dealer to mayor, the inspiring journey of Jermaine Wilson</a><span class="author-name"> by <a href="https://face2faceafrica.com/author/mtaylor">Mildred Europa Taylor</a></span></li><li><a href="https://face2faceafrica.com/article/white-u-s-senator-elizabeth-warren-pushes-for-reparations-for-black-americans"><span class="img "><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/elizabeth-140x115.jpg"></span><span>17 hours ago</span>White U.S senator Elizabeth Warren pushes for reparations for black Americans</a><span class="author-name"> by <a href="https://face2faceafrica.com/author/mtaylor">Mildred Europa Taylor</a></span></li><li><a href="https://face2faceafrica.com/article/the-graceful-aging-of-95-year-old-robert-mugabe-in-pictures"><span class="img "><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/feature10-140x115.jpg"></span><span>19 hours ago</span>The graceful aging of 95-year-old Robert Mugabe in pictures</a><span class="author-name"> by <a href="https://face2faceafrica.com/author/fakhalbey">Francis Akhalbey</a></span></li><li><a href="https://face2faceafrica.com/article/watch-r-kelly-turn-himself-in-to-police-after-sexual-abuse-charges"><span class="img "><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/kelly-140x115.jpg"></span><span>20 hours ago</span>Watch R. Kelly turn himself in to police after sexual abuse charges</a><span class="author-name"> by <a href="https://face2faceafrica.com/author/mtaylor">Mildred Europa Taylor</a></span></li>            </ul>
+            
+        </aside>
+    </div> 
+    
+    <p class="link-podcast">
+        <span>Changing the African narrative one story at a time</span>
+        <a href="https://face2faceafrica.com/podcast">Listen now</a>
+    </p>
+    
+            <figure class="text-uppercase text-center mobile-pattern mobile-only nr-ad-block">
+            <figcaption>Advertisement</figcaption>
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="1020870924"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>        </figure> 
+     
+            
+    <div class="cols-a e">
+        <div>
+            <h3 class="header-e b has-icon"><i class="icon-growth"></i> <span>Trending now</span></h3>
+            <ul class="list-cols b" id="trending-now">
+                            </ul>
+        </div>
+        <aside>            
+                            <figure class="text-uppercase text-center tablet-only nr-ad-block">
+                    <figcaption>Advertisement</figcaption>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="1020870924"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                </figure> 
+               
+                      
+                            <figure class="text-uppercase text-center desktop-only nr-ad-block">
+                    <figcaption>Advertisement</figcaption>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 300X600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="7039484367"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                </figure> 
+             
+    
+        </aside>
+    </div>
+
+    <ul class="list-gallery-c b nrs">
+                    <li >
+                <a href="https://face2faceafrica.com/videos/H4DsW7LT" class="video">
+                    <span class="img nr-image-full" data-iar="0.5625">
+                        <img src="https://cdn.jwplayer.com/thumbs/H4DsW7LT-720.jpg">
+                    </span>                      
+                    Cooking with Chef Eric Adjepong Part 1                </a> 
+            </li>
+                    <li class="mobile-hide">
+                <a href="https://face2faceafrica.com/videos/CS7Zyv2i" class="video">
+                    <span class="img nr-image-full" data-iar="0.5625">
+                        <img src="https://cdn.jwplayer.com/thumbs/CS7Zyv2i-720.jpg">
+                    </span>                      
+                    "Immigrants Do Not Come to This Country to Take; They come to Give and Create Opportunities"                </a> 
+            </li>
+                    <li class="mobile-hide">
+                <a href="https://face2faceafrica.com/videos/LZO5HIka" class="video">
+                    <span class="img nr-image-full" data-iar="0.5625">
+                        <img src="https://cdn.jwplayer.com/thumbs/LZO5HIka-720.jpg">
+                    </span>                      
+                    Part 1: Sandra Appiah's One on One with Afro-beat Maestro Femi Kuti                </a> 
+            </li>
+                    <li class="mobile-hide">
+                <a href="https://face2faceafrica.com/videos/i3IHBk2P" class="video">
+                    <span class="img nr-image-full" data-iar="0.5625">
+                        <img src="https://cdn.jwplayer.com/thumbs/i3IHBk2P-720.jpg">
+                    </span>                      
+                    Ghana's Business Magnate Shares Lessons for Business Success                </a> 
+            </li>
+                
+    </ul>      
+    
+            <figure class="text-uppercase text-center mobile-only nr-ad-block">
+            <figcaption>Advertisement</figcaption>
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="1020870924"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>        </figure> 
+     
+    
+    <h2 class="header-b"><span>In case you missed</span> <a href="https://face2faceafrica.com/articles">See all</a></h2>
+    <div class="cols-a e">
+        <div>
+            <ul class="list-cols a">
+                                <li>
+                        <a href="https://face2faceafrica.com/article/nigerians-are-choosing-between-two-70-year-olds-as-president">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/atik.jpg">
+                            </span>
+                            Nigerians are choosing between two 70-year olds as president 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+                    </li>
+         
+                                    <li>
+                        <a href="https://face2faceafrica.com/article/civil-rights-activist-medgar-evers-once-had-an-office-on-the-same-building-as-this-historic-restaurant">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/suzassippi-blogspot-com.jpg">
+                            </span>
+                            Civil rights activist Medgar Evers once had an office on the same building as this historic restaurant 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+                    </li>
+         
+                                    <li>
+                        <a href="https://face2faceafrica.com/article/metoo-storms-conservative-northern-nigeria-where-women-had-no-voice">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/download1.jpg">
+                            </span>
+                            #MeToo storms conservative northern Nigeria where women had no voice 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/finusah" title="Posts by Fatiatu Inusah" rel="author">Fatiatu Inusah</a></span>
+                    </li>
+         
+                                    <li>
+                        <a href="https://face2faceafrica.com/article/here-are-5-most-innovative-african-companies-of-2019">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/swaniker.jpg">
+                            </span>
+                            Here are 5 most innovative African companies of 2019 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+                    </li>
+         
+                                    <li>
+                        <a href="https://face2faceafrica.com/article/why-you-should-visit-the-beautiful-saint-lucia-the-only-sovereign-nation-to-be-named-after-a-woman">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/pitons.jpg">
+                            </span>
+                            Why you should visit the beautiful Saint Lucia, the only sovereign nation to be named after a woman 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/fakhalbey" title="Posts by Francis Akhalbey" rel="author">Francis Akhalbey</a></span>
+                    </li>
+         
+                                    <li>
+                        <a href="https://face2faceafrica.com/article/watch-obamas-caution-to-black-boys-against-falling-into-exaggerated-male-stereotypes">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/obama.curry_.jpg">
+                            </span>
+                            [WATCH] Obama&#8217;s caution to black boys against falling into exaggerated male stereotypes 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/ismail" title="Posts by Ismail Akwei" rel="author">Ismail Akwei</a></span>
+                    </li>
+         
+                                    <li>
+                        <a href="https://face2faceafrica.com/article/yemi-fawaz-nigerias-first-supermodel-dies-at-64">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/model.jpg">
+                            </span>
+                            Yemi Fawaz, Nigeria&#8217;s first supermodel dies at 64 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+                    </li>
+         
+                                    <li>
+                        <a href="https://face2faceafrica.com/article/at-17-this-actor-escaped-racism-in-the-us-and-broke-racial-barriers-in-europe-in-the-1800s">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/Ira_big_OSPC_83.6ALD.width-770-683x10241.jpg">
+                            </span>
+                            At 17, this actor escaped racism in the US and broke racial barriers in Europe in the 1800s 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/ejohnson" title="Posts by Elizabeth Ofosuah Johnson" rel="author">Elizabeth Ofosuah Johnson</a></span>
+                    </li>
+         
+                                    <li>
+                        <a href="https://face2faceafrica.com/article/3-unforgivable-ways-white-women-profited-from-slavery">
+                            <span class="img">
+                                <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/wicked.png">
+                            </span>
+                            3 unforgivable ways white women profited from slavery 
+                        </a>
+                        <span class="author-name"> by <a href="https://face2faceafrica.com/author/mtaylor" title="Posts by Mildred Europa Taylor" rel="author">Mildred Europa Taylor</a></span>
+                    </li>
+         
+                            </ul>
+        </div>
+        
+        
+        <aside class="desktop-only">
+                            <figure class="text-uppercase text-center sticky nr-ad-block">
+                    <figcaption>Advertisement</figcaption>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 300X600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="7039484367"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                </figure> 
+             
+        </aside>
+    </div>
+     
+    <article class="module-featured">
+        <h2><span>Help Face2Face Africa Tell the</span> Pan-African Narrative</h2>
+        <p>If our <span class="text-uppercase">voices</span> are to be heard, then we must tell our <span class="text-uppercase">own</span> stories</p>
+        <p class="link-a"><a href="https://face2faceafrica.com/membership" >Subscribe to premium</a></p>
+        <footer>
+            <h3><span class="mobile-only">Benefits include</span> <span class="mobile-hide">Includes</span></h3>
+            <ul class="list-icon">
+                <li><i class="icon-wifi"></i> Podcast</li>
+                <li><i class="icon-movie"></i> Video</li>
+                <li><i class="icon-discount"></i> Event discount</li>
+                <li><i class="icon-screen"></i> Exclusive content</li>
+            </ul>    
+        </footer>
+        <figure>
+            <img class="mobile-hide" src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/module-podcast.jpg" alt="Placeholder" width="1440" height="380">
+            <img class="mobile-only" src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/module-podcast-mobile.jpg" alt="Placeholder" width="320" height="308">
+        </figure>
+    </article>
+        
+    <h2 class="header-b"><span><i class="icon-podcast"></i></span></h2>
+    
+     
+    <ul class="list-podcast a">
+                <li>
+            <figure class="nr-image-full" data-iar="0.5625"><img src="https://cdn.jwplayer.com/thumbs/Rb5Ii7Pd-720.jpg" alt="" width="415" height="290"></figure>
+            <h3>
+                <a href="https://face2faceafrica.com/podcast/Rb5Ii7Pd">
+                    "That's Jesus Christ!"                </a>
+            </h3>
+        </li>
+                <li>
+            <figure class="nr-image-full" data-iar="0.5625"><img src="https://cdn.jwplayer.com/thumbs/wtXlIgQb-720.jpg" alt="" width="415" height="290"></figure>
+            <h3>
+                <a href="https://face2faceafrica.com/podcast/wtXlIgQb">
+                    "Great Things Are Only Birthed Through Adversity"                </a>
+            </h3>
+        </li>
+                <li>
+            <figure class="nr-image-full" data-iar="0.5625"><img src="https://cdn.jwplayer.com/thumbs/xBQzEEi3-720.jpg" alt="" width="415" height="290"></figure>
+            <h3>
+                <a href="https://face2faceafrica.com/podcast/xBQzEEi3">
+                    "I came to this country with $300 in my pockets, now I employ 215 people in Harlem"                </a>
+            </h3>
+        </li>
+                <li>
+            <figure class="nr-image-full" data-iar="0.5625"><img src="https://cdn.jwplayer.com/thumbs/u8ROamjB-720.jpg" alt="" width="415" height="290"></figure>
+            <h3>
+                <a href="https://face2faceafrica.com/podcast/u8ROamjB">
+                    "I wasn't supposed to have a child, but here I am with my one year-old baby!"                </a>
+            </h3>
+        </li>
+            </ul>
+    <hr>
+                 
+            <figure class="mobile-hide image-wide text-uppercase text-center mb-h">
+            <figcaption>Advertisement</figcaption>
+            <div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Header 970X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="8774895959"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>        </figure> 
+     
+            
+            <figure class="mobile-only image-wide text-uppercase text-center mb-h">
+            <figcaption>Advertisement</figcaption>
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="2488679198"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>        </figure> 
+     
+
+    
+        
+    <div class="quadruple">
+                <div>
+            <h3 class="header-image"><a href="https://face2faceafrica.com/we-tour"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/a.png" alt="We Tour" ></a></h3>
+            <ul class="list-f">
+                
+<!-- WordPress Popular Posts -->
+<li><a class="" href="https://face2faceafrica.com/article/how-ghana-enlightened-african-american-stars-to-dispel-stereotypes-about-africa"><span class="img"><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/01/48893668_2014866911935165_5967452974383890432_n-285x180.jpg"></span>How Ghana enlightened African American stars to dispel stereotypes about Africa</a></li>                     <li><a href="https://face2faceafrica.com/article/why-you-should-visit-the-beautiful-saint-lucia-the-only-sovereign-nation-to-be-named-after-a-woman">Why you should visit the beautiful Saint Lucia, the only sovereign nation to be named after a woman</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/kunta-kinte-island-the-15th-century-transit-point-and-settlement-for-european-traders-to-africa">Kunta Kinte Island, the 15th-century transit point and settlement for European traders to Africa</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/historical-church-buildings-in-africa-that-are-still-a-sight-to-behold">Historical church buildings in Africa that are still a sight to behold</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/top-5-african-wetlands-that-should-be-protected-at-all-costs-photos">Top 5 African wetlands  that should be protected at all costs [Photos]</a></li>
+                                  
+            </ul>
+                                    
+            
+                        
+            
+        </div>
+                <div>
+            <h3 class="header-image"><a href="https://face2faceafrica.com/diaspora-connect"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/b.png" alt="Dispora Connect" ></a></h3>
+            <ul class="list-f">
+                
+<!-- WordPress Popular Posts -->
+<li><a class="" href="https://face2faceafrica.com/article/5-caribbean-mother-tongues-that-developed-from-west-african-languages"><span class="img"><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/Patois-2-285x180.jpg"></span>5 Caribbean mother tongues that developed from West African languages</a></li>                     <li><a href="https://face2faceafrica.com/article/5-caribbean-mother-tongues-that-developed-from-west-african-languages">5 Caribbean mother tongues that developed from West African languages</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/5-iconic-people-didnt-know-caribbean-island-grenada">5 iconic people you didn’t know are from the Caribbean island of Grenada</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/10-iconic-black-activists-who-visited-ghana-in-the-50s-and-60s">10 iconic black activists who visited Ghana in the 50s and 60s</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/how-hair-was-used-to-smuggle-grains-into-the-caribbean-by-african-slaves">How hair was used to smuggle grains into the Caribbean by African slaves</a></li>
+                                  
+            </ul>
+                                    
+            
+                        
+            
+        </div>
+                <div>
+            <h3 class="header-image"><a href="https://face2faceafrica.com/art-attack"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/c.png" alt="Art Attack" ></a></h3>
+            <ul class="list-f">
+                
+<!-- WordPress Popular Posts -->
+<li><a class="" href="https://face2faceafrica.com/article/three-african-poems-that-critically-capture-colonization-on-the-continent"><span class="img"><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/07/9057_720-285x180.jpg"></span>Three African poems that critically capture colonization on the continent</a></li>                     <li><a href="https://face2faceafrica.com/article/egypts-1b-mega-museum-a-tourism-boost-and-new-home-for-its-priceless-treasures">Egypt’s $1b mega museum – a tourism boost and new home for its priceless treasures</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/10-thought-provoking-quotes-from-famous-author-paul-laurence-dunbar">10 thought-provoking quotes from famous author Paul Laurence Dunbar</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/black-history-month-welcomed-like-christmas-with-creative-door-decorations-photos">Black History Month welcomed like Christmas with creative door decorations [Photos]</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/10-zora-neale-hurston-quotes-to-inspire-you-this-year">10 Zora Neale Hurston quotes to inspire you this year</a></li>
+                                  
+            </ul>
+                                    
+            
+                        
+            
+        </div>
+                <div>
+            <h3 class="header-image"><a href="https://face2faceafrica.com/fashion-finds"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/d.png" alt="Finds Fashion" ></a></h3>
+            <ul class="list-f">
+                
+<!-- WordPress Popular Posts -->
+<li><a class="" href="https://face2faceafrica.com/article/this-nigerian-american-designer-is-behind-beyonces-ankara-suit-thats-breaking-the-internet"><span class="img"><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/enna2-285x180.png"></span>This Nigerian-American designer is behind Beyonce&#8217;s Ankara suit that&#8217;s breaking the internet</a></li>                     <li><a href="https://face2faceafrica.com/article/young-south-african-designer-wins-uks-international-fashion-showcase-award">Young South African designer wins UK&#8217;s international fashion showcase award</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/this-nigerian-american-designer-is-behind-beyonces-ankara-suit-thats-breaking-the-internet">This Nigerian-American designer is behind Beyonce&#8217;s Ankara suit that&#8217;s breaking the internet</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/photoshoot-goes-bad-as-white-model-poses-with-cameroons-endangered-tribespeople">Photoshoot goes bad as white model poses with Cameroon’s endangered tribespeople</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/5-bold-colors-black-women-should-try-out-in-2019">5 bold colors black women should try out in 2019</a></li>
+                                  
+            </ul>
+                                    
+            
+                        
+            
+        </div>
+                <div>
+            <h3 class="header-image"><a href="https://face2faceafrica.com/africa-quiz"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/e.png" alt="Africa Quiz" ></a></h3>
+            <ul class="list-f">
+                
+<!-- WordPress Popular Posts -->
+<li><a class="" href="https://face2faceafrica.com/article/quiz-test-your-knowledge-of-african-politics"><span class="img"><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/02/quiz-face2face-africa-285x180.jpg"></span>[Quiz] Test your knowledge of African politics</a></li>                     <li><a href="https://face2faceafrica.com/article/quiz-test-your-knowledge-of-african-presidents">[Quiz] Test your knowledge of African presidents</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/quiz-how-well-do-you-know-the-diverse-cultures-of-africa">[Quiz] How well do you know the diverse cultures of Africa?</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/quiz-can-you-name-all-the-african-countries-highlighted-on-the-map">[Quiz] Can you name all the African countries highlighted on the map?</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/quiz-how-well-do-you-know-african-languages">[Quiz] How well do you know African languages?</a></li>
+                                  
+            </ul>
+                                    
+            
+                        
+            
+        </div>
+                <div>
+            <h3 class="header-image"><a href="https://face2faceafrica.com/foodie-friday"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/f.png" alt="Foodie Friday" ></a></h3>
+            <ul class="list-f">
+                
+<!-- WordPress Popular Posts -->
+<li><a class="" href="https://face2faceafrica.com/article/how-ethiopia-won-a-battle-that-quashed-a-dutch-patent-on-its-native-grain"><span class="img"><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/1370452351220-285x180.jpeg"></span>How Ethiopia won a battle that quashed a Dutch patent on its native grain</a></li>                     <li><a href="https://face2faceafrica.com/article/civil-rights-activist-medgar-evers-once-had-an-office-on-the-same-building-as-this-historic-restaurant">Civil rights activist Medgar Evers once had an office on the same building as this historic restaurant</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/this-tiny-20-seater-village-restaurant-in-south-africa-is-the-best-in-the-world-photos">This tiny 20-seater village restaurant in South Africa is the best in the world [Photos]</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/the-iconic-d-c-restaurant-that-fed-activists-during-the-1968-riots-sparked-by-mlks-death">The iconic D.C. restaurant that fed activists during the 1968 riots sparked by MLK’s death</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/how-ethiopia-won-a-battle-that-quashed-a-dutch-patent-on-its-native-grain">How Ethiopia won a battle that quashed a Dutch patent on its native grain</a></li>
+                                  
+            </ul>
+                                                <figure class="mobile-only mobile-pattern text-uppercase text-center mb-c nr-ad-block">
+                        <figcaption>Advertisement</figcaption>
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 300X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="1020870924"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                    </figure> 
+                 
+                                    
+            
+                        
+            
+        </div>
+                <div>
+            <h3 class="header-image"><a href="https://face2faceafrica.com/tech-innovation"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/g.png?v=1" alt="Tech Innovation Tuesday" ></a></h3>
+            <ul class="list-f">
+                
+<!-- WordPress Popular Posts -->
+<li><a class="" href="https://face2faceafrica.com/article/at-just-21-iddris-sandu-is-the-tech-genius-behind-uber-instagram-and-snapchat"><span class="img"><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/12/guru-285x180.jpg"></span>At just 21, Iddris Sandu is the tech genius behind Uber, Instagram and Snapchat</a></li>                     <li><a href="https://face2faceafrica.com/article/rwanda-poised-to-open-africas-first-smartphone-manufacturing-factory-in-2019">Rwanda poised to open Africa&#8217;s first smartphone manufacturing factory in 2019</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/africas-first-private-space-satellite-to-be-launched-in-2019-thanks-to-these-girls">Africa&#8217;s first private space satellite to be launched in 2019 thanks to these girls</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/5-african-women-breaking-stereotypes-stem-careers">5 African women breaking stereotypes in STEM careers</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/meet-the-black-female-entrepreneurs-shaking-up-silicon-valley">Meet the black female entrepreneurs shaking up Silicon Valley</a></li>
+                                  
+            </ul>
+                                    
+            
+                        
+            
+        </div>
+                <div>
+            <h3 class="header-image"><a href="https://face2faceafrica.com/money-moves"><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/logo/h.png?v=1" alt="Money Monday" ></a></h3>
+            <ul class="list-f">
+                
+<!-- WordPress Popular Posts -->
+<li><a class="" href="https://face2faceafrica.com/article/9-top-companies-that-no-longer-require-a-college-degree"><span class="img"><img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2019/02/Apple-285x180.jpg"></span>9 top companies that no longer require a college degree</a></li>                     <li><a href="https://face2faceafrica.com/article/here-are-5-most-innovative-african-companies-of-2019">Here are 5 most innovative African companies of 2019</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/9-top-companies-that-no-longer-require-a-college-degree">9 top companies that no longer require a college degree</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/kenya-is-the-worlds-4th-largest-flower-exporter-and-makes-over-500m-a-year">Kenya is the world&#8217;s 4th-largest flower exporter and makes over $500m a year</a></li>
+                                      <li><a href="https://face2faceafrica.com/article/u-s-national-debt-jumps-to-22-trillion-after-trump-tax-cut">U.S. national debt jumps to $22 trillion after Trump tax cut</a></li>
+                                  
+            </ul>
+                                    
+            
+                        
+            
+        </div>
+            </div>
+    
+            <figure class="mobile-hide text-uppercase text-center image-a dont-print nr-ad-block">
+            <figcaption>Advertisement</figcaption>
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Header 970X250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="8774895959"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </figure> 
+       
+      
+            <figure class="mobile-only text-uppercase text-center image-a dont-print nr-ad-block">
+            <figcaption>Advertisement</figcaption>
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 728x90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="5041266167"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>        </figure> 
+     
+                   
+    <article class="module-pattern a va">
+        <h2 class="header-c"><span class="mobile-hide">Our voices</span> <span class="mobile-only">Top authors</span></h2>
+        
+                
+        <ul class="list-d">
+            <li class="nr-ad-block tablet-only">                            
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Face2Face Africa 300X600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-3242880450626824"
+     data-ad-slot="7039484367"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>            </li>
+                        <li>
+                <a href="https://face2faceafrica.com/author/ejohnson">
+                    <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/09/LIZ-1.jpg" width="70" height="70" alt="Elizabeth Ofosuah Johnson" class="avatar avatar-70 wp-user-avatar wp-user-avatar-70 alignnone photo" /> 
+                    Elizabeth Ofosuah<br/>Johnson                </a>
+                
+<!-- WordPress Popular Posts -->
+
+ 
+<a href='https://face2faceafrica.com/article/5-horrifying-ways-enslaved-african-men-were-sexually-exploited-and-abused-by-their-white-masters'>5 horrifying ways enslaved African men were sexually exploited and abused by their white masters</a>
+
+ 
+                                 <a class="small" href="https://face2faceafrica.com/article/at-17-this-actor-escaped-racism-in-the-us-and-broke-racial-barriers-in-europe-in-the-1800s">At 17, this actor escaped racism in the US and broke racial barriers in Europe in the 1800s</a>
+                                  <a class="small" href="https://face2faceafrica.com/article/5-caribbean-mother-tongues-that-developed-from-west-african-languages">5 Caribbean mother tongues that developed from West African languages</a>
+                                              </li>
+                        <li>
+                <a href="https://face2faceafrica.com/author/mtaylor">
+                    <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/09/EUROPA.jpg" width="70" height="70" alt="Mildred Europa Taylor" class="avatar avatar-70 wp-user-avatar wp-user-avatar-70 alignnone photo" /> 
+                    Mildred Europa<br/>Taylor                </a>
+                
+<!-- WordPress Popular Posts -->
+
+ 
+<a href='https://face2faceafrica.com/article/this-gifted-boy-with-autism-is-the-youngest-ever-to-attend-oxford-university-at-age-6'>This gifted boy with autism is the youngest ever to attend Oxford University at age 6</a>
+
+ 
+                                 <a class="small" href="https://face2faceafrica.com/article/senegal-is-choosing-a-leader-will-the-young-triumph-over-the-old">Senegal is choosing a leader – will the young triumph over the old?</a>
+                                  <a class="small" href="https://face2faceafrica.com/article/from-convicted-drug-dealer-to-mayor-the-inspiring-journey-of-jermaine-wilson">From convicted drug dealer to mayor, the inspiring journey of Jermaine Wilson</a>
+                                              </li>
+                        <li>
+                <a href="https://face2faceafrica.com/author/fakhalbey">
+                    <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/09/FRANCIS.jpg" width="70" height="70" alt="Francis Akhalbey" class="avatar avatar-70 wp-user-avatar wp-user-avatar-70 alignnone photo" /> 
+                    Francis<br/>Akhalbey                </a>
+                
+<!-- WordPress Popular Posts -->
+
+ 
+<a href='https://face2faceafrica.com/article/meek-mill-and-jay-z-on-a-mission-to-free-1-million-unjustly-detained-americans'>Meek Mill and Jay-Z on a mission to free 1 million unjustly detained Americans</a>
+
+ 
+                                 <a class="small" href="https://face2faceafrica.com/article/the-graceful-aging-of-95-year-old-robert-mugabe-in-pictures">The graceful aging of 95-year-old Robert Mugabe in pictures</a>
+                                  <a class="small" href="https://face2faceafrica.com/article/civil-rights-activist-medgar-evers-once-had-an-office-on-the-same-building-as-this-historic-restaurant">Civil rights activist Medgar Evers once had an office on the same building as this historic restaurant</a>
+                                              </li>
+                        <li>
+                <a href="https://face2faceafrica.com/author/ismail">
+                    <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2017/11/bio-e-96x96.png" width="70" height="70" alt="Ismail Akwei" class="avatar avatar-70 wp-user-avatar wp-user-avatar-70 alignnone photo" /> 
+                    Ismail<br/>Akwei                </a>
+                
+<!-- WordPress Popular Posts -->
+
+ 
+<a href='https://face2faceafrica.com/article/five-black-friendly-european-countries-where-you-will-have-no-worries'>Five black-friendly European countries where you will have no worries</a>
+
+ 
+                                 <a class="small" href="https://face2faceafrica.com/article/watch-obamas-caution-to-black-boys-against-falling-into-exaggerated-male-stereotypes">[WATCH] Obama&#8217;s caution to black boys against falling into exaggerated male stereotypes</a>
+                                  <a class="small" href="https://face2faceafrica.com/article/how-malcolm-x-became-a-serious-threat-to-the-u-s-after-his-africa-visit">How Malcolm X became a serious threat to the U.S. after his Africa visit</a>
+                                              </li>
+                        <li>
+                <a href="https://face2faceafrica.com/author/ssafo">
+                    <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/10/sika-safo.jpeg" width="70" height="70" alt="Sika-Ayiwa Afriyie Safo" class="avatar avatar-70 wp-user-avatar wp-user-avatar-70 alignnone photo" /> 
+                    Sika-Ayiwa<br/>Afriyie Safo                </a>
+                
+<!-- WordPress Popular Posts -->
+
+ 
+<a href='https://face2faceafrica.com/article/the-unpleasant-truths-about-sex-dolls-that-are-often-overlooked'>The unpleasant truths about sex dolls that are often overlooked</a>
+
+ 
+                                 <a class="small" href="https://face2faceafrica.com/article/the-unpleasant-truths-about-sex-dolls-that-are-often-overlooked">The unpleasant truths about sex dolls that are often overlooked</a>
+                                  <a class="small" href="https://face2faceafrica.com/article/africa-needs-new-jobs-prostitution-is-not-one-of-them">Africa needs new jobs, prostitution is not one of them</a>
+                                              </li>
+                    </ul>
+    </article>      
+            </section>    
+                 
+            <footer id="footer">                
+                <form action="https://face2faceafrica.us8.list-manage.com/subscribe/post?u=ad895bf86196a909473c09324&amp;id=839878563e" method="post" target="_blank">
+                    <h3>Connect with us <span>Join our Mailing List to Receive Updates</span></h3>
+                    <p>
+                        <label for="EMAIL">Enter Email Address</label>
+                        <input type="email" id="EMAIL" name="EMAIL" required>
+                        <button type="submit">Submit</button>
+                    </p>
+
+                    <p class="check-a"><label for="nb"><input type="checkbox" id="nb" name="nb" required> I Agree to F2FA <a href="https://face2faceafrica.com/terms-of-use" target="_blank" class="text-uppercase">terms</a></label></p>
+                    <ul class="social-a">
+                        <li class="title">The premier pan-African voice</li>
+                        <li><a rel="external" href="https://twitter.com/Face2faceAFRICA"><i class="icon-twitter"></i> Twitter</a></li>
+                        <li><a rel="external" href="https://www.youtube.com/user/Face2FaceAFRICA/videos"><i class="icon-youtube"></i> YouTube</a></li>
+                        <li><a rel="external" href="https://www.instagram.com/face2faceafrica"><i class="icon-instagram"></i> Instagram</a></li>
+                        <li><a rel="external" href="https://www.linkedin.com/company/face2face-africa"><i class="icon-linkedin"></i> LinkedIn</a></li>
+                        <li><a rel="external" href="https://www.facebook.com/face2faceafrica"><i class="icon-facebook"></i> Facebook</a></li>
+                    </ul>
+                </form>
+
+                
+                <nav>
+                    <div>
+                        <p><a href="https://face2faceafrica.com/">Face2FaceAfrica</a></p>
+                        <ul>
+                            <li style="padding-bottom:10px; min-height:30px"><strong style="border-bottom: 2px solid #ae9e19;padding-bottom: 5px;">SECTIONS</strong></li>
+                            
+                            <li><a href="https://face2faceafrica.com/face2faceafrica-comwomen">Women</a></li> 
+                            <li><a href="https://face2faceafrica.com/news">News</a></li>                          
+                            <li><a href="https://face2faceafrica.com/culture">Culture</a></li>
+                            <li><a href="https://face2faceafrica.com/lifestyle">Lifestyle</a></li>
+                            <li><a href="https://face2faceafrica.com/entertainment">Entertainment</a></li> 
+                            
+                        </ul>
+                        <ul>
+                            <li style="padding-bottom:10px; min-height:30px"></li>
+                            <li><a href="https://face2faceafrica.com/history">History</a></li>
+                            <li><a href="https://face2faceafrica.com/opinion">Opinion</a></li>
+                            <li><a href="https://face2faceafrica.com/we-tour">WeTour</a></li>
+                            <li><a href="https://face2faceafrica.com/art-attack">Art Attack</a></li> 
+                            <li><a href="https://face2faceafrica.com/fashion-finds">Fashion Finds</a></li>
+                            <li><a href="https://face2faceafrica.com/money-moves">Money Moves</a></li> 
+                        </ul>
+                        <ul>
+                            <li style="padding-bottom:10px; min-height:28px"></li>
+                            <li><a href="https://face2faceafrica.com/foodie-friday">Foodie Friday</a></li> 
+                            <li><a href="https://face2faceafrica.com/africa-quiz">Africa Quiz</a></li> 
+                            <li><a href="https://face2faceafrica.com/tech-innovation">Tech &amp; Innovation</a></li> 
+                            <li><a href="https://face2faceafrica.com/diaspora-connect">Diaspora Connect</a></li>
+                            <li><a href="https://face2faceafrica.com/faces-of-black-excellence">Faces of Black History</a></li>
+                            
+                        </ul>
+                        <ul>
+                            <li style="padding-bottom:10px;"><strong style="border-bottom: 2px solid #ae9e19;padding-bottom: 5px;">EVENTS</strong></li>  
+                            <li><a href="https://30blackstars.face2faceafrica.com">30 Black Stars</a></li>
+                            <li><a href="https://paw.face2faceafrica.com">Pan-African Weekend</a></li> 
+                            <li><a href="https://paw.face2faceafrica.com/ticket?eid=32">Facelist Awards</a></li> 
+                            <li><a href="https://paw.face2faceafrica.com/ticket?eid=35">Women Forum</a></li>
+                            <li><a href="https://paw.face2faceafrica.com/ticket?eid=80">Ankara Jazz Brunch</a></li>                       
+                               
+                        </ul>
+                        <ul>
+                            <li style="padding-bottom:10px"><strong style="border-bottom: 2px solid #ae9e19;padding-bottom: 5px;">SUBCRIPTIONS</strong></li>  
+                            <li><a href="https://iaapanetwork.com/">IAAPA Network</a></li> 
+                            <li><a href="https://face2faceafrica.com/videos">Videos</a></li> 
+                            <li><a href="https://face2faceafrica.com/podcast">Podcast</a></li>
+                            <li><a href="https://face2faceafrica.com/exclusive-events">Exclusive Events</a></li>
+                        </ul>
+                    </div>
+                    <ul>
+                        <li><a href="https://face2faceafrica.com/terms-of-use">Terms of Service</a></li>
+                        <li><a href="https://face2faceafrica.com/privacy-statement">Privacy Policy</a></li>
+                        <li><a href="https://face2faceafrica.com/about-us">About Us</a></li>
+                        <li><a href="#footer">Newsletter</a></li>
+                        <li><a href="javascript:;">Contributor's Guidelines</a></li>
+                        <li><a href="#popup_contact_box">Contact us</a></li>
+                        <li><a href="https://face2faceafrica.com/advertise-with-us">Advertise with us</a></li>
+                        <li><a href="https://face2faceafrica.com/career">Work@ Babu Global</a></li>
+                        <li><a href="https://babuglobal.com/leadership/">Leadership</a></li>
+                    </ul>
+                    <p><span>&copy;</span> 2011- <span class="date">2019</span> <a rel="external" href="https://babuglobal.com">Babu Global</a>.<br> All Rights Reserved</p>
+                </nav>
+            </footer>
+            <!--article class="popup-a box" data-title="instagram">
+                <figure><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/popup.jpg" alt="Placeholder" width="791" height="808"></figure>
+                <h2 class="scheme-c"><i class="icon-instagram"></i> Changing the African narrative one photo at a time! <span class="strong">Join our ever expanding <span>Instagram community!</span></span> <a rel="external" href="./">@face2faceAfrica</a></h2>
+                <p class="link-c">
+                    <span>
+                        <a rel="external" href="./">Follow</a>
+                        <a href="./" class="close">No, thanks</a>
+                    </span>
+                </p>
+            </article-->
+            <article class="popup-a premium" data-title="subscribe-to-premium">
+                <figure><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/subscribe-to-premium.jpg" alt="Placeholder" width="791" height="808"></figure>
+                <h2>Help us create <span> more content like this</span></h2>
+                <p class="link-a"><a href="https://face2faceafrica.com/membership">Subscribe to premium</a></p>
+                <p>Already a member? <a href="https://face2faceafrica.com/membership/login">Sign in. </a></p>
+            </article>
+            <a style="text-indent:-999999px;height:0" href="#subscribe-to-premium" data-popup="subscribe-to-premium"></a>  
+            
+                        <article class="popup-a premium popup-sticky" data-title="subscribe">
+                <figure><img src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/images/content/subscribe-to-premium.jpg" alt="Placeholder" width="791" height="808"></figure>
+                <h2>Help us create <span> more content like this</span></h2>
+                <p class="link-a"><a href="https://face2faceafrica.com/membership">Subscribe to premium</a></p>
+                <p>Already a member? <a href="https://face2faceafrica.com/membership/login">Sign in. </a></p>
+            </article>
+            <a style="text-indent:-999999px;height:0" class="sticky-pop-click"  href="#subscribe" data-popup="subscribe"></a>  
+            
+            
+            
+                    </div>
+        <div style='display:none'>  
+            <div class="nr-pop-wrap" id="popup_contact_box">
+                <h3>Contact Us</h3>
+                <div class="submit_story_box_inner">
+                    <form enctype="multipart/form-data" class="nr-contact-form"  method="post" action="">
+                        <div class="input_row">
+                            <input type="text" name="sender_first" placeholder="First Name" class="in_text" required />
+                        </div>
+                        <div class="input_row">
+                            <input type="text" name="sender_last" placeholder="Last Name" class="in_text" required />
+                        </div>
+                        <div class="input_row">
+                            <input type="email" name="sender_email" placeholder="Email" class="in_text" required />
+                        </div>
+                        <div class="input_row">
+                            <input type="text" name="sender_subject" placeholder="Subject" class="in_text" required />
+                        </div>
+                        <div class="input_row ir_full">
+                            <textarea type="text" name="sender_msg" placeholder="Message" class="in_text" required></textarea>
+                        </div>
+                        <div class="input_row">
+                            <button type="submit" name="submit" value="Submit" class="btn btn_submit_story" />Submit</button>
+                        </div>
+
+                    </form>
+                </div>
+                <a class="p-close" href="javascript:jQuery.colorbox.close();">x</a>
+            </div>
+                        
+        </div>
+        <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script defer src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/javascript/jquery.js"><\/script>');</script>
+        <script defer src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/javascript/scripts.js?v=4.2"></script>
+        <script defer src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/javascript/custom.js?v=4.2"></script>
+        <script defer src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/javascript/scripts-nr.js?v=4.2"></script>
+        <script defer src="https://face2faceafrica.com/wp-content/themes/f2fa-v4/javascript/mobile.js?v=4.2"></script>
+        
+        <script type='text/javascript' src='https://face2faceafrica.com/wp-includes/js/wp-embed.min.js?ver=5.1'></script>
+         
+
+        
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+    </body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 1588/1950 objects using disk
+Page Caching using disk: enhanced 
+
+Page cache debug info:
+Engine:             disk: enhanced
+Cache key:          face2faceafrica.com/_index_ssl.html
+Creation Time:      1551012505.000s
+Header info:
+X-Powered-By:        PHP/7.2.10
+Content-Type:        text/html; charset=UTF-8
+Link:                <https://face2faceafrica.com/wp-json/>; rel="https://api.w.org/"
+
+Minified using disk
+
+Minify debug info:
+Theme:              1d761
+Template:           index
+
+Database Caching using disk
+
+Served from: face2faceafrica.com @ 2019-02-24 02:48:25 by W3 Total Cache
+-->{"url": null}

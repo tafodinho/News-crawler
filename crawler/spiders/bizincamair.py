@@ -4,18 +4,16 @@ import re
 import mysql.connector
 import datetime
 
-
-class Aljazeera(scrapy.Spider):
-    name = "aljazeera"
-
-    host = 'localhost'
-    user = 'root'
-    passwd = 'google'
-    database = 'bembits'
+class BizInCamair(scrapy.Spider):
+    name = "bizincamair"
+    host = "localhost"
+    user = "root"
+    passwd = "google"
+    database = "bembits"
 
     def start_requests(self):
         urls = [
-            'https://www.aljazeera.com/',
+            "https://www.businessincameroon.com",
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -33,9 +31,11 @@ class Aljazeera(scrapy.Spider):
         page = response.url.split("/")[-2]
         filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
-
-        for articles in response.css("div.latest-news-topic"):
-            url = response.url[:-1] + articles.css("a::attr(href)").get()
+        # f.write(response.text)
+        for articles in response.css("div.row"):
+            url = articles.css("a::attr(href)").get()
+            if url[0] is '/':
+                url = response.url[:-1] + url
             if url in links_crawled:
                 continue
             try:
@@ -50,14 +50,14 @@ class Aljazeera(scrapy.Spider):
         f.close()
 
     def parse1(self, response):
-        article = response.css("div.main-container")
-        print(response)
+        article = response.css("div.column--primary")
+
         url = response.url
-        img = "https://www.aljazeera.com" + article.css("figure.main-article-mediaCaption > div.main-article-media > img::attr(src)").get()
-        title = self.clean_string(article.css("div.article-heading h1::text").get())
-        date = self.clean_string(article.css("time::attr(datetime)").get())
-        excerpt = article.css("p.article-heading-des::text").get()
-        page = response.url.split("/")[2]
+        img = article.css("figure span img::attr(src)").get()
+        title = self.clean_string(article.css("h1.story-body__h1::text").get())
+        date = self.clean_string(article.css("div.date::text").get())
+        excerpt = article.css("p.story-body__introduction::text").get()
+        page = response.url.split("/")[-3]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
         mydb = self.mysql_connect()
@@ -76,4 +76,3 @@ class Aljazeera(scrapy.Spider):
         
     def clean_string(self, mystring):
         return re.sub('[\t\r\n]+', '', mystring)
-       
