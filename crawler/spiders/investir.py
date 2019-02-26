@@ -4,8 +4,8 @@ import re
 import mysql.connector
 import datetime
 
-class AfricaNews(scrapy.Spider):
-    name = "africanews"
+class InvestirCameroon(scrapy.Spider):
+    name = "investircameroon"
     host = "localhost"
     user = "root"
     passwd = "google"
@@ -13,7 +13,7 @@ class AfricaNews(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            "https://www.africanews.com/",
+            "https://www.investiraucameroun.com/",
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -32,7 +32,7 @@ class AfricaNews(scrapy.Spider):
         filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
         # f.write(response.text)
-        for articles in response.css("article.jsJustInArticle"):
+        for articles in response.css("div.aidanews2_k2_positions"):
             
             url = articles.css("a::attr(href)").get()
             if url[0] is '/':
@@ -51,13 +51,14 @@ class AfricaNews(scrapy.Spider):
         f.close()
 
     def parse1(self, response):
-        article = response.css("article.layout__item")
-
+        article = response.css("div.itemView")
+        print(article)
         url = response.url
-        img = article.css("section.article-wrapper img::attr(src)").get()
-        title = self.clean_string(article.css("div.programBlockHeader h1.article__title::text").get())
-        date = self.clean_string(article.css("time::attr(datetime)").get())
-        excerpt = article.css("section.article__body div.article-content__text > p::text").get()
+        img = "https://www.investiraucameroun.com" + article.css("img::attr(src)").get()
+        title = self.clean_string(article.css("div.itemHeader h2.itemTitle::text").get())
+        
+        date = self.clean_string(article.css("div.itemToolbar span.itemDateCreated::text").get())
+        excerpt = article.css("p.texte span::text").get()
         page = response.url.split("/")[2]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
@@ -69,7 +70,7 @@ class AfricaNews(scrapy.Spider):
         if len(result) > 0:
             return
         sql = "INSERT INTO cameroons (name, image, title, excerpt, date, site, url, created_at, updated_at) VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        val = ('cameroon', img, title, excerpt, date, page, url, insert_time, insert_time)
+        val = ('cameroon', img, title, excerpt, insert_time, page, url, insert_time, insert_time)
 
         db_cursor.execute(sql, val)
         mydb.commit()
