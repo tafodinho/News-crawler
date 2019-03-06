@@ -15,7 +15,7 @@ class Betatinz(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            'https://www.betatinz.com/',
+            'https://www.betatinz.com/search/label/Entertainment',
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)

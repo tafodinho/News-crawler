@@ -5,8 +5,9 @@ import mysql.connector
 import datetime
 
 
-class MarieCLaire(scrapy.Spider):
-    name = "marieclaire"
+class ABCNews(scrapy.Spider):
+    name = "abcnews"
+
     host = 'localhost'
     user = 'root'
     passwd = 'google'
@@ -14,7 +15,7 @@ class MarieCLaire(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            'https://www.marieclaire.com.au/news',
+            'https://www.abc.net.au/',
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -33,10 +34,10 @@ class MarieCLaire(scrapy.Spider):
         filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
 
-        for articles in response.css("article"):
+        for articles in response.css(".article"):
             url = articles.css("a::attr(href)").get()
             if url[0] is '/':
-                url = response.url[:-5] + url
+                url = response.url[:-1] + url
             if url in links_crawled:
                 continue
             try:
@@ -51,13 +52,15 @@ class MarieCLaire(scrapy.Spider):
         f.close()
 
     def parse1(self, response):
-        article = response.css("article.Article--Post")
+        article = response.css(".article section")
         print(response)
         url = response.url
-        img = article.css("figure.Article-Content-Top-Image-Link picture link::attr(href)").get()
-        title = self.clean_string(article.css("header h1.Article-Title::text").get())
-        date = self.clean_string(article.css("div.Article-Body time::attr(datetime)").get())
-        excerpt = article.css("section.Article-Content p::text").get()
+        img = article.css("div.photo img::attr(src)").get()
+        title = self.clean_string(article.css("#skip-to-content-heading::text").get())
+        print(title)
+        print('\n\n\n\n')
+        date = self.clean_string(article.css("time::attr(datetime)").get())
+        excerpt = article.css("p.first::text").get()
         page = response.url.split("/")[2]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
@@ -69,7 +72,7 @@ class MarieCLaire(scrapy.Spider):
         if len(result) > 0:
             return
         sql = "INSERT INTO austrailias (name, image, title, excerpt, date, site, url, created_at, updated_at) VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        val = ('cameroon', img, title, excerpt, date, page, url, insert_time, insert_time)
+        val = ('Australia News', img, title, excerpt, date, page, url, insert_time, insert_time)
 
         db_cursor.execute(sql, val)
         mydb.commit()
