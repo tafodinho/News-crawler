@@ -3,30 +3,19 @@ import json
 import re
 import mysql.connector
 import datetime
+from .database import Database
 
 
 class TheGuardian(scrapy.Spider):
     name = "theguardian"
-
-    host = 'localhost'
-    user = 'root'
-    passwd = 'google'
-    database = 'bembits'
-
+    table = "austrailias"
+    
     def start_requests(self):
         urls = [
             'https://www.theguardian.com/au',
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
-
-    def mysql_connect(self):
-        return mysql.connector.connect(
-            host = self.host, 
-            user = self.user, 
-            passwd = self.passwd, 
-            database = self.database
-        )
 
     def parse(self, response):
         links_crawled = []
@@ -53,27 +42,18 @@ class TheGuardian(scrapy.Spider):
         article = response.css("div.gs-container")
         print(response)
         url = response.url
-        img = article.css("figure.media-primary a picture img::attr(src)").get()
+        image = article.css("figure.media-primary a picture img::attr(src)").get()
         title = self.clean_string(article.css("h1.content__headline::text").get())
-        date = self.clean_string(article.css("p.content__dateline time::attr(datetime)").get())
         excerpt = article.css("div.content__article-body p::text").get()
+        date = self.clean_string(article.css("p.content__dateline time::attr(datetime)").get())
         page = response.url.split("/")[2]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
-        
-        mydb = self.mysql_connect()
-        db_cursor = mydb.cursor()
-        sql1 = "SELECT * FROM austrailias WHERE title = '%s'" % title
-        db_cursor.execute(sql1)
-        result = db_cursor.fetchall()
-        if len(result) > 0:
-            return
-        sql = "INSERT INTO austrailias (name, image, title, excerpt, date, site, url, created_at, updated_at) VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        val = ('cameroon', img, title, excerpt, date, page, url, insert_time, insert_time)
 
-        db_cursor.execute(sql, val)
-        mydb.commit()
+        db = Database(url, image, title, excerpt, date, page, insert_time)
+        db.fil_db(self.table)
+
         self.log('Saved data into DATABASE SUCCESS')
         
     def clean_string(self, mystring):
         return re.sub('[\t\r\n]+', '', mystring)
-       
+    
