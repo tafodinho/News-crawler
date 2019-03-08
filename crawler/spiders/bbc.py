@@ -7,6 +7,10 @@ from .database import Database
 
 class BBC(scrapy.Spider):
     name = "bbc"
+    countries = [
+        'cameroons', 
+        'australias'
+        ]
 
     def start_requests(self):
         urls = [
@@ -50,8 +54,9 @@ class BBC(scrapy.Spider):
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
         db = Database(url, img, title, excerpt, date, page, insert_time)
-        db.fill_db("austrailias")
-        db.fill_db("cameroons")
+        
+        for country in self.countries:
+            db.fill_db(country)
         
         self.log('Saved data into DATABASE SUCCESS')
         

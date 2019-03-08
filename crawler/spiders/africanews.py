@@ -3,13 +3,13 @@ import json
 import re
 import mysql.connector
 import datetime
-
+from .database import Database
 class AfricaNews(scrapy.Spider):
     name = "africanews"
-    host = "localhost"
-    user = "root"
-    passwd = "google"
-    database = "bembits"
+    countries = [
+        'nigerias', 
+        'cameroons'
+        ]
 
     def start_requests(self):
         urls = [
@@ -17,14 +17,6 @@ class AfricaNews(scrapy.Spider):
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
-
-    def mysql_connect(self):
-        return mysql.connector.connect(
-            host = self.host, 
-            user = self.user, 
-            passwd = self.passwd, 
-            database = self.database
-        )
 
     def parse(self, response):
         links_crawled = []
@@ -61,18 +53,10 @@ class AfricaNews(scrapy.Spider):
         page = response.url.split("/")[2]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
-        mydb = self.mysql_connect()
-        db_cursor = mydb.cursor()
-        sql1 = "SELECT * FROM cameroons WHERE title = '%s'" % title
-        db_cursor.execute(sql1)
-        result = db_cursor.fetchall()
-        if len(result) > 0:
-            return
-        sql = "INSERT INTO cameroons (name, image, title, excerpt, date, site, url, created_at, updated_at) VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        val = ('cameroon', img, title, excerpt, date, page, url, insert_time, insert_time)
-
-        db_cursor.execute(sql, val)
-        mydb.commit()
+        db = Database(url, img, title, excerpt, date, page, insert_time)
+        
+        for country in self.countries:
+            db.fill_db(country)
         self.log('Saved data into DATABASE SUCCESS')
         
     def clean_string(self, mystring):

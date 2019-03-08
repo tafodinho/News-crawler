@@ -50,7 +50,7 @@ class TheGuardian(scrapy.Spider):
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
 
         db = Database(url, image, title, excerpt, date, page, insert_time)
-        db.fil_db(self.table)
+        db.fill_db(self.table)
 
         self.log('Saved data into DATABASE SUCCESS')
         
