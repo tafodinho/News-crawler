@@ -18,7 +18,6 @@ class Database:
         self.date = date
         self.page = page
         self.insert_time = insert_time
-
         self.mydb = self.mysql_connect()
 
     

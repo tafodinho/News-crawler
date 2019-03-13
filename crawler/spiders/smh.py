@@ -64,7 +64,7 @@ class Smh(scrapy.Spider):
         
         mydb = self.mysql_connect()
         db_cursor = mydb.cursor()
-        sql1 = "SELECT * FROM cameroons WHERE title = '%s'" % title
+        sql1 = "SELECT * FROM austrailias WHERE title = '%s'" % title
         db_cursor.execute(sql1)
         result = db_cursor.fetchall()
         if len(result) > 0:

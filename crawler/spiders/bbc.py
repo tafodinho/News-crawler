@@ -10,7 +10,7 @@ class BBC(scrapy.Spider):
     countries = [
         'cameroons', 
         'australias'
-        ]
+    ]
 
     def start_requests(self):
         urls = [
