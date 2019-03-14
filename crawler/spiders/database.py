@@ -33,7 +33,7 @@ class Database:
         country = table[:-1]
         
         db_cursor = self.mydb.cursor()
-        sql1 = "SELECT * FROM " + table + " WHERE title = '%s'" % self.title
+        sql1 = "SELECT * FROM " + table + " WHERE title = \"%s\"" % self.title
         db_cursor.execute(sql1)
         result = db_cursor.fetchall()
         if len(result) > 0:
