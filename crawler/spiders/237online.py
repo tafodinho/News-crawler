@@ -44,7 +44,7 @@ class Online237(scrapy.Spider):
         article = response.css("article")
         print(response)
         url = response.url
-        image = article.css("figure img::attr(src)").get()
+        image = article.css("figure.single-featured-image img::attr(src)").get()
         title = self.clean_string(article.css("div.entry-header h1::text").get())
         excerpt = article.css(".entry-content p::text").getall()[2]
         # date = self.clean_string(article.css("ul.authar-info li::text)").getall()[1])
