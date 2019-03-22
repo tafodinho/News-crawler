@@ -5,8 +5,8 @@ import mysql.connector
 import datetime
 from .database import Database
 
-class BBC(scrapy.Spider):
-    name = "bbc"
+class theExchange(scrapy.Spider):
+    name = "theexchange"
     countries = [
         'cameroons', 
         'austrailias'
@@ -14,7 +14,7 @@ class BBC(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            "https://www.bbc.com/",
+            "https://www.exchange.co.tz/",
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -25,8 +25,8 @@ class BBC(scrapy.Spider):
         filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
         # f.write(response.text)
-        for articles in response.css("li.media-list__item"):
-            url = articles.css("div.media > a::attr(href)").get()
+        for articles in response.css("article"):
+            url = articles.css("a::attr(href)").get()
             if url[0] is '/':
                 url = response.url[:-1] + url
             if url in links_crawled:
@@ -43,13 +43,13 @@ class BBC(scrapy.Spider):
         f.close()
 
     def parse1(self, response):
-        article = response.css("div.column--primary")
+        article = response.css("div.jeg_main_content")
 
         url = response.url
-        img = article.css("figure span img::attr(src)").get()
-        title = self.clean_string(article.css("h1.story-body__h1::text").get())
-        date = self.clean_string(article.css("div.date::text").get())
-        excerpt = article.css("p.story-body__introduction::text").get()
+        img = article.css(".featured_image img::attr(src)").get()
+        title = self.clean_string(article.css(".entry-header h1::text").get())
+        date = self.clean_string(article.css(".jeg_meta_date a::text").get())
+        excerpt = article.css(".entry-content .content-inner p::text").get()
         page = response.url.split("/")[-3]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
