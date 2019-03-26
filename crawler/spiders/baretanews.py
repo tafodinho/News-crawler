@@ -5,16 +5,13 @@ import mysql.connector
 import datetime
 from .database import Database
 
-class UNOrg(scrapy.Spider):
-    name = "unorg"
-    countries = [
-        'cameroons', 
-        'austrailias'
-    ]
+class BaretaNews(scrapy.Spider):
+    name = "baretanews"
+    table = "cameroons"
 
     def start_requests(self):
         urls = [
-            "https://news.un.org/en/",
+            'https://www.bareta.news/',
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -24,8 +21,8 @@ class UNOrg(scrapy.Spider):
         page = response.url.split("/")[-2]
         filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
-        # f.write(response.text)
-        for articles in response.css(".featured-media"):
+
+        for articles in response.css("li.infinite-post"):
             url = articles.css("a::attr(href)").get()
             if url[0] is '/':
                 url = response.url[:-1] + url
@@ -43,22 +40,23 @@ class UNOrg(scrapy.Spider):
         f.close()
 
     def parse1(self, response):
-        article = response.css("div.main-container")
-
+        f = open("abctesting.txt", "w")
+        article = response.css("article")
+        f.write(response.url)
+        f.write(response.text)
         url = response.url
-        img = article.css(".featured-media picture img::attr(src)").get()
-        title = self.clean_string(article.css("h1.story-title::text").get())
-        # date = self.clean_string(article.css(".jeg_meta_date a::text").get())
-        excerpt = article.css(".field-item p::text").get()
+        img = article.css("div#content-main img::attr(src)").get()
+        title = self.clean_string(article.css("header h1.post-title::text").get())
+        # date = self.clean_string(article.css("span.timestamp::text").get())
+        excerpt = article.css("#content-main p::text").getall()[2]
         page = response.url.split("/")[2]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
         db = Database(url, img, title, excerpt, insert_time, page, insert_time)
-        
-        for country in self.countries:
-            db.fill_db(country)
-        
+        db.fill_db(self.table)
+
         self.log('Saved data into DATABASE SUCCESS')
         
     def clean_string(self, mystring):
         return re.sub('[\t\r\n]+', '', mystring)
+       
