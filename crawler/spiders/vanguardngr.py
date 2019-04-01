@@ -45,7 +45,7 @@ class VanguardNGR(scrapy.Spider):
         f.write(response.url)
         f.write(response.text)
         url = response.url
-        img = article.css("div.entry-content img::attr(src)").get()
+        img = article.css("div.entry-content img::attr(src)").getall()[1]
         title = self.clean_string(article.css("header h1.entry-title::text").get())
         # date = self.clean_string(article.css("span.timestamp::text").get())
         excerpt = article.css("div.entry-content p::text").getall()[2]
