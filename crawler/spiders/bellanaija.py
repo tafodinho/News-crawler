@@ -45,7 +45,7 @@ class BellaNaija(scrapy.Spider):
         f.write(response.url)
         f.write(response.text)
         url = response.url
-        img = article.css("div.wp-caption img::attr(src)").get()
+        img = article.css("div#mvp-content-main img::attr(src)").get()
         title = self.clean_string(article.css("div#mvp-post-main h1.mvp-post-title::text").get())
         # date = self.clean_string(article.css("span.timestamp::text").get())
         excerpt = article.css("div#mvp-content-main p::text").get()
