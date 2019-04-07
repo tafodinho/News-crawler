@@ -9,7 +9,8 @@ class BBC(scrapy.Spider):
     name = "bbc"
     countries = [
         'cameroons', 
-        'austrailias'
+        'austrailias',
+        'nigerias'
     ]
 
     def start_requests(self):

@@ -9,7 +9,8 @@ class GoalDotCom(scrapy.Spider):
     name = "goaldotcom"
     countries = [
         'cameroons', 
-        'austrailias'
+        'austrailias',
+        'nigerias'
     ]
 
     def start_requests(self):

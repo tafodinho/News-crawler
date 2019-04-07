@@ -10,7 +10,8 @@ class Aljazeera(scrapy.Spider):
     name = "aljazeera"
     countries = [
         'cameroons', 
-        'australias'
+        'australias',
+        'nigerias'
     ]
 
     def start_requests(self):
