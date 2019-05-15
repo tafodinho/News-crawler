@@ -14,12 +14,9 @@ class USAToday(scrapy.Spider):
             'https://www.usatoday.com',
         ]
         for url in urls:
-            yield scrapy.Request(url=url,
-             meta = {
-                      'dont_redirect': True,
-                      'handle_httpstatus_list': [302]
-            },
-            callback=self.parse)
+            request = scrapy.Request(url=url,callback=self.parse)
+            request.meta['dont_redirect'] = True
+            yield request
 
     def parse(self, response):
         links_crawled = []
