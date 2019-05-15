@@ -16,8 +16,7 @@ class USAToday(scrapy.Spider):
         for url in urls:
             yield scrapy.Request(url=url,
              meta = {
-                      'dont_redirect': True,
-                      'handle_httpstatus_list': [302]
+                      'dont_redirect': True
             },
             callback=self.parse)
 
