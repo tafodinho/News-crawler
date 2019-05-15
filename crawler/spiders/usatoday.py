@@ -11,7 +11,7 @@ class USAToday(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            'https://www.usatoday.com/',
+            'https://usatoday.com/',
         ]
         for url in urls:
             yield scrapy.Request(url=url,
