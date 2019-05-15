@@ -11,12 +11,13 @@ class USAToday(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            'https://usatoday.com/',
+            'https://www.usatoday.com',
         ]
         for url in urls:
             yield scrapy.Request(url=url,
              meta = {
-                      'dont_redirect': True
+                      'dont_redirect': True,
+                      'handle_httpstatus_list': [302]
             },
             callback=self.parse)
 
