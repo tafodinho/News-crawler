@@ -11,6 +11,7 @@ class BBC(scrapy.Spider):
         'cameroons', 
         'austrailias',
         'nigerias'
+        'americas'
     ]
 
     def start_requests(self):

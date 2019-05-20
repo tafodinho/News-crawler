@@ -11,7 +11,8 @@ class Aljazeera(scrapy.Spider):
     countries = [
         'cameroons', 
         'australias',
-        'nigerias'
+        'nigerias',
+        'americas'
     ]
 
     def start_requests(self):
