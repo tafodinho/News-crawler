@@ -5,16 +5,16 @@ import mysql.connector
 import datetime
 from .database import Database
 
-class Reuters(scrapy.Spider):
-    name = "reuters"
+class Vibe(scrapy.Spider):
+    name = "vibe"
     table = "americas"
 
     def start_requests(self):
         urls = [
-            'https://www.reuters.com/',
+            'https://www.vibe.com/category/national/',
         ]
         for url in urls:
-            yield scrapy.Request(url=url,callback=self.parse)
+            yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         links_crawled = []
@@ -22,10 +22,10 @@ class Reuters(scrapy.Spider):
         filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
 
-        for articles in response.css("article.story"):
+        for articles in response.css("div.feed-post--article"):
             url = articles.css("a::attr(href)").get()
             if url[0] is '/':
-                url = response.url[:-1] + url
+                url = response.url[:-18] + url
             if url in links_crawled:
                 continue
             try:
@@ -41,14 +41,14 @@ class Reuters(scrapy.Spider):
 
     def parse1(self, response):
         f = open("abctesting.txt", "w")
-        article = response.css("div.StandardArticle_inner-container")
+        article = response.css("article")
         f.write(response.url)
         f.write(response.text)
         url = response.url
-        img = article.css("div.Image_container img::attr(src)").get()
-        title = self.clean_string(article.css("div.ArticleHeader_upper-container h1::text").get())
+        img = article.css("figure img::attr(src)").get()
+        title = self.clean_string(article.css("div.article__header h1::text").get())
         # date = self.clean_string(article.css("span.timestamp::text").get())
-        excerpt = article.css("div.StandardArticleBody_body p::text").get()
+        excerpt = article.css("div.article__body p::text").get()
         page = response.url.split("/")[2]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
