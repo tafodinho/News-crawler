@@ -5,13 +5,13 @@ import mysql.connector
 import datetime
 from .database import Database
 
-class USAToday(scrapy.Spider):
-    name = "usatoday"
+class Reuters(scrapy.Spider):
+    name = "reuters"
     table = "americas"
 
     def start_requests(self):
         urls = [
-            'https://www.usatoday.com/',
+            'https://www.reuters.com/',
         ]
         for url in urls:
             yield scrapy.Request(url=url,callback=self.parse)
@@ -22,7 +22,7 @@ class USAToday(scrapy.Spider):
         filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
 
-        for articles in response.css("li.hfwmm-item"):
+        for articles in response.css("article.story"):
             url = articles.css("a::attr(href)").get()
             if url[0] is '/':
                 url = response.url[:-1] + url
@@ -41,14 +41,14 @@ class USAToday(scrapy.Spider):
 
     def parse1(self, response):
         f = open("abctesting.txt", "w")
-        article = response.css("article")
+        article = response.css("div.StandardArticle_inner-container")
         f.write(response.url)
         f.write(response.text)
         url = response.url
         img = article.css("div.asset-double-wide img::attr(src)").get()
-        title = self.clean_string(article.css("section.storytopbar-bucket h1::text").get())
+        title = self.clean_string(article.css("div.ArticleHeader_upper-container h1::text").get())
         # date = self.clean_string(article.css("span.timestamp::text").get())
-        excerpt = article.css("div.asset-double-wide p::text").getall()[1]
+        excerpt = article.css("div.StandardArticleBody_body p::text").get()
         page = response.url.split("/")[2]
         insert_time = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
         
