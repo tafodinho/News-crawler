@@ -10,13 +10,13 @@ class BBC(scrapy.Spider):
     countries = [
         'cameroons', 
         'austrailias',
-        'nigerias'
+        'nigerias',
         'americas'
     ]
 
     def start_requests(self):
         urls = [
-            "https://www.bbc.com/",
+            "https://www.bbc.com/news/world",
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -27,10 +27,10 @@ class BBC(scrapy.Spider):
         filename = 'urls-%s.txt' % page
         f = open(filename, 'w')
         # f.write(response.text)
-        for articles in response.css("li.media-list__item"):
-            url = articles.css("div.media > a::attr(href)").get()
+        for articles in response.css("div.gs-t-News"):
+            url = articles.css("a::attr(href)").get()
             if url[0] is '/':
-                url = response.url[:-1] + url
+                url = response.url[:-11] + url
             if url in links_crawled:
                 continue
             try:
